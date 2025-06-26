@@ -69,7 +69,7 @@ forage-phishing-mastercard/
 * Communication & Awareness Writing
 * Phishing Campaign Lifecycle
 * Incident Response Planning
-* Python scripting basics for parsing headers
+* Security Awareness Training
 
 ---
 
