@@ -33,30 +33,12 @@ This project captures everything I learned during the [Forage x Mastercard Cyber
 | 3      | Draft an Awareness Campaign | Designed internal email content for employee training.    |
 | 4      | Build a Response Plan       | Created an incident report and remediation strategy.      |
 
----
-
-## 📁 Phishing Simulation Assets
-
-```
-forage-phishing-mastercard/
-├── phishing-awareness/
-│   └── awareness-email.md
-├── suspicious-email-analysis/
-│   └── analyzed-email-sample.txt
-├── reports/
-│   └── incident-report-template.md
-├── scripts/
-│   └── email-header-parser.py
-├── README.md
-```
 
 ---
 
 ## 🧰 Tools Used
 
-* 📬 **Email Header Analyzer**
-* 🐍 **Python (for header parsing + scripting)**
-* 📁 **Wireshark (network traffic analysis)**
+* 📬 **Email  Analyzer**
 * 🖼️ **Canva / Google Slides (awareness materials)**
 * 🧠 **Threat Intelligence Platforms**
 
